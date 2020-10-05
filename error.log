@@ -1,0 +1,5 @@
+{"log.level":"error","timestamp":1601924895704,"message":"test error"}
+{"timestamp":1601925194578,"message":"test error","log.level":"error"}
+{"message":"test error baru","log.level":"error","timestamp":1601925213060}
+{"message":"test error baru","log.level":"error","timestamp":1601925468838}
+{"message":"test error baru lagi","timestamp":1601925496252,"log.level":"error"}

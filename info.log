@@ -1,0 +1,6 @@
+{"timestamp":1601924895704,"message":"test info","log.level":"info"}
+{"timestamp":1601924941736,"message":"test info","log.level":"info"}
+{"log.level":"info","timestamp":1601925194577,"message":"test info"}
+{"timestamp":1601925213060,"message":"test info baru","log.level":"info"}
+{"timestamp":1601925468838,"log.level":"info","message":"test info baru"}
+{"timestamp":1601925496251,"message":"test info baru lagi","log.level":"info"}
